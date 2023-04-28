@@ -1,0 +1,1 @@
+import{_ as o,T as a,r as s,o as n,c,a as r,F as _,b as e}from"./index-34f92504.js";const i={components:{TicketCard:a}},p=e("div",{class:"about"},[e("h1",null,"This is an about page")],-1);function d(l,u,m,f,b,k){const t=s("TicketCard");return n(),c(_,null,[p,r(t)],64)}const h=o(i,[["render",d]]);export{h as default};
